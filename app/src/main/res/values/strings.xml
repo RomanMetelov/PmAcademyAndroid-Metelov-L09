@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">PmAcademyAndroid-Metelov-L09</string>
+    <string name="BROADCAST_ACTION">BROADCAST_ACTION</string>
 </resources>
